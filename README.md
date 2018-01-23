@@ -1,4 +1,4 @@
-# Java_SampleCode30
+# JavaSampleCode30
 static変数
 
 #### 処理
