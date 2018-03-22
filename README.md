@@ -6,7 +6,7 @@ static変数
 
 ## コード
 ```
-public class Sample30 {
+public class Static2 {
 
 	public static void main(String[] args) {
 		int total = Item3.gokei(120, 15);
@@ -34,5 +34,6 @@ class Item3 {
 ## 開発環境
 | 開発ツール |  |
 |:-|:-|
+| OS | Windows10 |
 | 統合開発環境(IDE) | Eclipse 4.7.0 Oxygen |
 | 開発言語 | Java8 |
